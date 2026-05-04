@@ -74,9 +74,9 @@ export const projects: Project[] = [
   {
     id: '1',
     title: 'UI Development - Wych',
-    description: // Mention Kiwibank?
-      'Currently working on the Wych team as their only front end dev in collaboration with the UI designers and Back end devlopers, and rest of the team to build, test, present, and document a bunch of Svelte UIs, upkeep a componentized UI library built with with Typescript and Tailwind on top of Flowbite, compatible with Keycloak and full internationalization to meet SOC 2 compliance in quick time blocked sprints to meet deadlines from customers.',
-    image: pushpayImg, //Needs to be updated
+    description:
+      'UI Lead for a fintech platform, owning front-end direction and building Svelte/TypeScript interfaces from Figma to production. Led a shared component system, extending Flowbite-Svelte to improve consistency, accessibility, and developer experience. Worked closely with design and engineering to deliver high-quality UI in fast-paced sprint cycles with  high-trust decision making.',
+    image: wychImg,
     images: [
       svelte,
       azureDevOps,
