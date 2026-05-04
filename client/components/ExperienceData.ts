@@ -1,7 +1,12 @@
 import { Experience } from './Types.ts'
 export const ExperienceData: Experience[] = [
   {
-    title: 'Summer Software Intern | PushPay | November 2024 - Present',
+    title: 'UI Development | Wych |  April  2025 - Present',
+    content:
+      '• Effective UI lead for a fintech platform, owning front-end direction in a high-trust environment and making key decisions on architecture, patterns, and implementation. </br> • Built Svelte and TypeScript UI components, translating Figma designs into accessible, production-ready interfaces. </br> • Led and evolved a shared component system, including extending and wrapping Flowbite-Svelte to improve consistency, flexibility, and developer experience. </br> • Maintained and improved a reusable component library to enable rapid, consistent delivery and strong performance. </br> •  Practiced TDD with Storybook; maintained clear documentation across components, APIs, and development workflows. </br> • Collaborated closely with the UI/UX designer, contributing directly to design decisions and iterating within Figma where needed. </br> • Worked with developers, testers, and leads to refine requirements, manage expectations, and translate customer needs into actionable work. </br> • Contributed to planning and delivery through Azure DevOps, supporting fast-paced sprints and high-priority client timelines.',
+  },
+  {
+    title: 'Summer Software Intern | PushPay | November 2024 - Feb 2025',
     content:
       '• Project research and development </br> • Designing and creating the front end with Figma, and TS/React </br> •  Crash learning our projects requirements from talks and documentation. </br> • Giving presentations and live demos, and receiving feedback. </br> •  Working with a team of 5 to deliver a project on time using the Agile methodology.  </br> • Learning and using Jira, Confluence, the Atlassian suite, Slack automation, the Google suite.',
   },
