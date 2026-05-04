@@ -1,9 +1,10 @@
 // Project Images
 import pushpayImg from '../public/Images/Projects/pushpay.png'
-import wedProImg from '../public/Images/Projects/wedPro.png'
+import wedProImg from '../public/Images/Projects/wedpro.png'
 import ootdImg from '../public/Images/Projects/ootd.png'
-import devAcademyImg from '../public/Images/Projects/devAcademy.png'
+import devAcademyImg from '../public/Images/Projects/dev-academy.png'
 import portfolioImg from '../public/Images/Projects/portfolio.png'
+import wychImg from '../public/Images/Projects/wych.png'
 // Skill Images
 import apollo from '../public/Images/Skills/apollo.png'
 import aws from '../public/Images/Skills/aws.png'
