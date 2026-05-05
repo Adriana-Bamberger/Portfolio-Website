@@ -23,7 +23,7 @@ export default function ProjectsCards() {
             <img
               src={project.image}
               alt={project.title}
-              className="w-full lg:w-1/3 rounded-lg object-cover lg:mr-6"
+              className="w-full! object-contain lg:w-1/3 rounded-lg lg:mr-6"
               loading="lazy"
             />
             <div className="w-full lg:w-2/3 mt-4 lg:mt-0 lg:pl-6">

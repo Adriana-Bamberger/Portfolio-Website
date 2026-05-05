@@ -3,7 +3,7 @@ import { InterestsData } from './InterestsData'
 
 export default function InterestsBox() {
   return (
-    <div className="mx-auto my-5 max-w-7xl px-4 md:px-6 lg:px-8">
+    <div className="mx-auto my-5 px-4 md:px-6 lg:px-8">
       <div
         data-aos="fade-up"
         className="bg-white bg-opacity-10 border border-white border-opacity-0 rounded-custom backdrop-blur-sm p-6 shadow-md text-center mb-6"
