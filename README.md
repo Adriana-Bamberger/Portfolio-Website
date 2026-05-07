@@ -29,6 +29,6 @@ I am exploring more UI design principles, animations, motion, and 3D Graphics.
 - Scroll Animations
 
 ## Stretch Ideas
-- Movement in the 3D avatar
+- Update the 3D avatar to move
 - Component animated transformations on click.
 - Animated 3D background
