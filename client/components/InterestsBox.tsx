@@ -1,4 +1,3 @@
-import { Interest } from './Types'
 import { InterestsData } from './InterestsData'
 
 export default function InterestsBox() {
