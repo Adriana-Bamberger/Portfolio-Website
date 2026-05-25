@@ -3,7 +3,7 @@ https://adriana.bamberger.nz/
 
 ![Status: In Progress](https://img.shields.io/badge/status-finished%20for%20now-green)
 
-This will always be WIP, as I learn, improve, and catch spelling mistakes 🤣
+This will always be WIP, as I learn, improve, nice in and out of roles, and catch spelling mistakes 🤣
 ## Learning Objectives
 I am exploring more UI design principles, animations, motion, and 3D Graphics.
 
