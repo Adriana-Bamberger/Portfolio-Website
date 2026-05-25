@@ -1,7 +1,7 @@
 # Portfolio-Website
 https://adriana.bamberger.nz/
 
-![Status: Finished for Now](https://img.shields.io/badge/status-finished%20for%20now-green)
+![Status: In Progress](https://img.shields.io/badge/status-finished%20for%20now-green)
 
 This will always be WIP, as I learn, improve, and catch spelling mistakes 🤣
 ## Learning Objectives
