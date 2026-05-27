@@ -40,7 +40,7 @@ export default function ProjectsCards() {
                       src={image}
                       alt={`${project.title} ${idx + 1}`}
                       loading="lazy"
-                      className="h-9 w-auto m-1"
+                      className="h-6 w-auto mx-1"
                     />
                   ))}
               </div>
