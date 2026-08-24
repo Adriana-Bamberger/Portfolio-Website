@@ -39,7 +39,7 @@ export default function HeaderBar() {
       alt: 'Good Reads Icon (Black and White)',
     },
     {
-      href: 'https://drive.google.com/file/d/1zKdMc74bOFudtnohyqn8d8V4P8fGvDao/view?usp=sharing',
+      href: 'https://drive.google.com/file/d/1QOwD44nxCr2xwGKcztoMW1gDjxKf81RT/view?usp=sharing',
       src: DownloadCV,
       alt: 'Download CV',
     },
