@@ -1,0 +1,5 @@
+---
+name: 
+---
+
+# {ComponentName} — decisions

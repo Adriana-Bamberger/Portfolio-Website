@@ -1,0 +1,17 @@
+site_name: UI Docs
+site_description: UI requirements and decisions for the Portfolio Website
+docs_dir: docs
+theme:
+  name: material
+  features:
+    - search.suggest
+    - navigation.sections
+    - navigation.indexes
+plugins:
+  - search
+  - awesome-pages
+markdown_extensions:
+  - admonition
+  - tables
+  - toc:
+      permalink: true

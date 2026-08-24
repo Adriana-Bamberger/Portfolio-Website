@@ -12,7 +12,10 @@
     "test": "vitest",
     "lint": "eslint .",
     "format": "prettier -w '**/*.{js,jsx,ts,tsx}'",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "new-req": "node scripts/next-id.js REQ --create",
+    "new-dec": "node scripts/next-id.js DEC --create",
+    "check-refs": "node scripts/check-references.js"
   },
   "author": "Dev Academy Aotearoa",
   "license": "ISC",
